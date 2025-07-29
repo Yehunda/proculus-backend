@@ -1,0 +1,20 @@
+[
+  {
+    "pair": "BTCUSDT",
+    "type": "LONG",
+    "entry": 28500,
+    "target": 31000,
+    "stop": 27800,
+    "status": "active",
+    "timestamp": 1722444000
+  },
+  {
+    "pair": "ETHUSDT",
+    "type": "SHORT",
+    "entry": 2950,
+    "target": 2750,
+    "stop": 3050,
+    "status": "active",
+    "timestamp": 1722444400
+  }
+]
