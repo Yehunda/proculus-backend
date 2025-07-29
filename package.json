@@ -1,0 +1,13 @@
+{
+  "name": "proculus-backend",
+  "version": "1.0.0",
+  "description": "Backend processor for successful signals",
+  "main": "checkSuccess.js",
+  "type": "module",
+  "scripts": {
+    "start": "node checkSuccess.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
